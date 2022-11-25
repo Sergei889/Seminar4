@@ -1,0 +1,15 @@
+C:\Users\Сергей\Desktop\Homework4\proekt0\bin\Debug\net6.0\proekt0.exe
+C:\Users\Сергей\Desktop\Homework4\proekt0\bin\Debug\net6.0\proekt0.deps.json
+C:\Users\Сергей\Desktop\Homework4\proekt0\bin\Debug\net6.0\proekt0.runtimeconfig.json
+C:\Users\Сергей\Desktop\Homework4\proekt0\bin\Debug\net6.0\proekt0.dll
+C:\Users\Сергей\Desktop\Homework4\proekt0\bin\Debug\net6.0\proekt0.pdb
+C:\Users\Сергей\Desktop\Homework4\proekt0\obj\Debug\net6.0\proekt0.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Homework4\proekt0\obj\Debug\net6.0\proekt0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей\Desktop\Homework4\proekt0\obj\Debug\net6.0\proekt0.AssemblyInfoInputs.cache
+C:\Users\Сергей\Desktop\Homework4\proekt0\obj\Debug\net6.0\proekt0.AssemblyInfo.cs
+C:\Users\Сергей\Desktop\Homework4\proekt0\obj\Debug\net6.0\proekt0.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Homework4\proekt0\obj\Debug\net6.0\proekt0.dll
+C:\Users\Сергей\Desktop\Homework4\proekt0\obj\Debug\net6.0\refint\proekt0.dll
+C:\Users\Сергей\Desktop\Homework4\proekt0\obj\Debug\net6.0\proekt0.pdb
+C:\Users\Сергей\Desktop\Homework4\proekt0\obj\Debug\net6.0\proekt0.genruntimeconfig.cache
+C:\Users\Сергей\Desktop\Homework4\proekt0\obj\Debug\net6.0\ref\proekt0.dll
